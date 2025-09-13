@@ -24,7 +24,7 @@ ScholarIQ is a FastAPI-based backend service that provides AI-powered analytics 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/scholariq.git
+git clone https://github.com/keshavgujrathi/scholariq.git
 cd scholariq
 ```
 
